@@ -1,5 +1,5 @@
 
-class LinkedList {
+class LinkedList1 {
 
     Node head;
 
@@ -64,7 +64,7 @@ class LinkedList {
 
     public static void main(String args[]) {
 
-        LinkedList list = new LinkedList();
+        LinkedList1 list = new LinkedList1();
         list.addFirst("a");
         list.addFirst("is");
         list.addLast("list");
