@@ -30,6 +30,6 @@ public class LL_Problem_2 {
             }
         System.out.println("The updated list is: ");
         System.out.println(list);
-        sc.close();
+        sc.close(); //used for close the scanner.
     }
 }
