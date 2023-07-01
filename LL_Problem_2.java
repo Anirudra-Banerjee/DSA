@@ -28,6 +28,7 @@ public class LL_Problem_2 {
                     iterate.remove();
                 }
             }
+            
         System.out.println("The updated list is: ");
         System.out.println(list);
         sc.close(); //used for close the scanner.

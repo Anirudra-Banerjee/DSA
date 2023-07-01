@@ -23,6 +23,6 @@ public class LL_Problem_1 {
                 System.out.println("The index of searched no is: " + i);
             }
         }
-        sc.close();
+        sc.close(); // used for close scanner
     }
 }

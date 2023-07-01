@@ -110,6 +110,8 @@ class LinkedList1 {
     public int getSize(){
         return size;
     }
+
+    
     public static void main(String args[]) {
 
         LinkedList1 list = new LinkedList1();
