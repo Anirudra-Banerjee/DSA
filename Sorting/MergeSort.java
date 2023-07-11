@@ -1,3 +1,6 @@
+
+// Merge Sort // Time Complexity -> O(nlogn)
+
 import java.util.Scanner;
 
 public class MergeSort {
